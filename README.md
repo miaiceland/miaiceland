@@ -1,0 +1,3 @@
+- Hi, my name is Mia Iceland.
+- I am a Sophomore at Pennsylvania State University.
+- My Github account contains all the programs I have created during my coding classes.
